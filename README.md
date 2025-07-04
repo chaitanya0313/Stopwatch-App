@@ -23,7 +23,7 @@ This was developed as **Task-02** for my **Web Development Internship at Prodigy
 
 ## 🔗 Live Demo (if hosted)
 
-[https://krishmali-7171.github.io/Stopwatch-app/](https://krishmali-7171.github.io/Stopwatch-app/)
+[https://chaitanya0313.github.io/Stopwatch-App/](https://chaitanya0313.github.io/Stopwatch-App/)
 
 ## 📎 Task Info
 
