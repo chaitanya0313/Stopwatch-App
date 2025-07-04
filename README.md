@@ -19,7 +19,7 @@ This was developed as **Task-02** for my **Web Development Internship at Prodigy
 ## 📁 Project Structure
 ## 🔗 GitHub Repository
 
-[https://github.com/krishmali-7171/Stopwatch-app](https://github.com/krishmali-7171/Stopwatch-app)
+[https://github.com/chaitanya0313/Stopwatch-App](https://github.com/chaitanya0313/Stopwatch-App)
 
 ## 🔗 Live Demo (if hosted)
 
